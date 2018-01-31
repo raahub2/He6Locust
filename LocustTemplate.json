@@ -10,12 +10,12 @@
     "kass-signal":
     {
         "lo-frequency": 25.2814e9,
-        "xml-filename": "/home/mathieu.guigue/test/Project8Phase2_WithRoot_Template.xml"
+        "xml-filename": "/home/raahub2/He6Locust/He6_WithRoot_Template1.xml"
     },
 
     "simulation":
     {
-        "egg-filename": "/home/mathieu.guigue/test/locust_mc.egg",
+        "egg-filename": "/home/raahub2/He6Locust/locust_mc.egg",
         "n-records": 1
     },
   
