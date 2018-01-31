@@ -23,13 +23,13 @@
 <external_define name="count" value="1"/>
 <external_define name="seed" value="112377"/>
 
-<external_define name="output_path" value="/home/mathieu.guigue/test/output/Kassiopeia"/> 
+<external_define name="output_path" value="/home/raahub2/He6Locust/output/Kassiopeia"/> 
 <external_define name="file" value="He6Output"/>
 
 
 
 <geometry>
-    <include name="/home/mathieu.guigue/test/He6Geometry1.xml"/>
+    <include name="/home/raahub2/He6Locust/He6Geometry1.xml"/>
 </geometry>
     
     <!-- solenoid turns -->
